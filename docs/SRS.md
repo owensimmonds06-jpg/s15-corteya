@@ -36,3 +36,6 @@ _Qué NO hace el sistema_
 | Código | Categoría | Descripción | Criterio de Aceptación |
 | :--- | :--- | :--- | :--- |
 | **RNF-01** | Usabilidad | El proceso completo de selección de servicio, consulta de horario y confirmación de la cita debe garantizar una experiencia rápida e intuitiva. | El flujo completo desde la selección del servicio hasta la confirmación debe realizarse en un **máximo de 3 pantallas**. |
+
+---
+Google Docs: https://docs.google.com/document/d/1R0-5eniQ_phJCrxFPODrY168--mRHKEScq6pFeiqzo0/edit?usp=sharing
