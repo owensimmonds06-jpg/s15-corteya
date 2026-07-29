@@ -1,21 +1,28 @@
 **Propósito**
+
 “CorteYa” es una plataforma digital diseñada para optimizar la reserva de citas en peluquerías. Permite a los clientes consultar horarios disponibles, seleccionar servicios y agendar o reprogramar sus citas de forma rápida, mientras ofrece al estilista una herramienta clara para visualizar y reorganizar su agenda de trabajo. 
 
+---
 **Alcance**
+
 _Qué SÍ hace el sistema_
-Permite a los clientes consultar en tiempo real los horarios libres de los estilistas.
-Permite agendar citas seleccionando un servicio específico y confirmando la reserva.
-Permite tanto al cliente como al estilista reprogramar citas previamente agendadas.
+
+- Permite a los clientes consultar en tiempo real los horarios libres de los estilistas.
+- Permite agendar citas seleccionando un servicio específico y confirmando la reserva.
+- Permite tanto al cliente como al estilista reprogramar citas previamente agendadas.
+
 
 _Qué NO hace el sistema_
-_No gestiona pagos en línea_: La transacción monetaria se realiza de forma presencial o externa al sistema.
-_No gestiona inventario_: No lleva el control de insumos, tintes ni productos consumibles de la peluquería.
-_No realiza facturación electrónica ni contabilidad_: No emite comprobantes fiscales ni lleva balances financieros.
 
+- _No gestiona pagos en línea_: La transacción monetaria se realiza de forma presencial o externa al sistema.
+- _No gestiona inventario_: No lleva el control de insumos, tintes ni productos consumibles de la peluquería.
+- _No realiza facturación electrónica ni contabilidad_: No emite comprobantes fiscales ni lleva balances financieros.
+---
 **Actores**
-_Cliente_: Usuario que consulta la disponibilidad, agenda un servicio deseado y reprogramar sus citas cuando lo requiere.
-_Estilista_: Profesional de la peluquería que visualiza las citas asignadas a su agenda y reprograma reservas según su disponibilidad o eventualidades.
 
+- _Cliente_: Usuario que consulta la disponibilidad, agenda un servicio deseado y reprogramar sus citas cuando lo requiere.
+- _Estilista_: Profesional de la peluquería que visualiza las citas asignadas a su agenda y reprograma reservas según su disponibilidad o eventualidades.
+---
 **RF - Requisitos Funcionales**
 | Código | Descripción | Prioridad |
 | :--- | :--- | :--- |
